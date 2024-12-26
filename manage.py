@@ -3,6 +3,7 @@
 import os
 import sys
 
+# Main function for the code
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'registration.settings')
     try:
